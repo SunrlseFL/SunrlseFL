@@ -1,7 +1,7 @@
 ### Hi there, I'm Austin - aka [SunrlseFL][website] 👋
 
 [![Website](https://img.shields.io/youtube/channel/subscribers/UC1z8c2NhGm3PWmcOkpU_EVQ?style=social)](https://github.com/sunrlsefl)
-[![Twitter Follow](FlSunrise)](https://https://twitter.com/FlSunrise?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SunrlseFL)
+[![Twitter Follow](https://img.shields.io/twitch/status/sunrlsefl?style=social)
 
 ## I'm Student And Young Coder!
 
