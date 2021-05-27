@@ -38,8 +38,8 @@ I am Coding Discord Bots for a price! (Very Cheap) Shoot me a dm!
 <a href="https://discord.gg/kMcckuB6Gx">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
-<a href="https://discord.gg/kMcckuB6Gx">
-    <img src="[img]https://i.imgur.com/FTBMw19.png[/img]" alt="Discord" width="80"/>
+<a href="github.com/SunrlseFL">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="Discord" width="80"/>
   </a>
 </p>
 
