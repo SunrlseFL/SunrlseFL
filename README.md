@@ -1,17 +1,10 @@
-# About-Me!
-  _________                  .__                 
- /   _____/__ __  ___________|  |   ______ ____  
- \_____  \|  |  \/    \_  __ \  |  /  ___// __ \ 
- /        \  |  /   |  \  | \/  |__\___ \\  ___/ 
-/_______  /____/|___|  /__|  |____/____  >\___  >
-        \/           \/                \/     \/ 
-        
+![welcome] 
 🌟 Discord: SunrlseFL#9666
 🤖 Discord Server: https://discord.gg/kMcckuB6Gx
 👻 Fun Fact: I Code Discord Bots!
-![welcome](https://i.imgur.com/6XHBC84.png)
+![welcome](https://i.imgur.com/fhy9703.png)
 ```js
-<Quick Introduction>
+<Introduction>
 Eyyoo! Code addict, with life lessons :).
 ```
 
