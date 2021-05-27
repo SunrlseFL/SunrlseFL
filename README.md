@@ -2,7 +2,7 @@
 ![welcome](https://i.imgur.com/fhy9703.png)
 ```js
 <Introduction>
-Eyyoo! Code addict, with life lessons :).
+Loves Coding with friends and making discord bots :).
 ```
 
 ![welcome] 
